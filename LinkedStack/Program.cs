@@ -6,7 +6,7 @@ namespace LinkedStack
     {
         static void Main(string[] args)
         {
-            Stack<int> stack = new Stack<int>();
+           
             try
             {
                 Console.WriteLine("Enter expression to check if balanced or not");
